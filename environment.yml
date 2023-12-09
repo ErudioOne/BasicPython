@@ -1,0 +1,6 @@
+name: erudio.basic
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.12
